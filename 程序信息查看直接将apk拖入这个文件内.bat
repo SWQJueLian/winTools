@@ -1,4 +1,5 @@
 @echo off
+MODE con:COLS=150 lines=40
 title PackName 和 ClassName 查看批处理--By JueLian
 color 3f
 :menu
